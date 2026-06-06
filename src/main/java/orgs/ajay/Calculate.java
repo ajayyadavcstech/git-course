@@ -5,6 +5,7 @@ public class Calculate {
         return a*b;
     }
     public double calculateAreaOfSquare(int len){
-        return len*len;
+        double result = len*len;
+        return result;
     }
 }
