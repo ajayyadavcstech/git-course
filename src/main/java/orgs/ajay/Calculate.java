@@ -7,4 +7,7 @@ public class Calculate {
     public double calculateAreaOfSquare(int len){
         return len*len;
     }
+    public double add(int a,int b){
+        return a+b;
+    }
 }
